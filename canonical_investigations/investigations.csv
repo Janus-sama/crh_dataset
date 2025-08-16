@@ -1,39 +1,153 @@
-LoincCode,AtomName,CanonicalInvestigationLoincCode,CanonicalInvestigationName,Category,Unit
-64098-7,Six minute walk distance,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Pre-test,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Pre-test,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 1,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 1,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 2,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 2,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 3,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 3,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 4,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 4,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 5,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 5,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Minute 6,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 6,64098-7,Six Minute Walk Test,other,
-8889-8,Heart rate by Pulse oximetry - Post-test,64098-7,Six Minute Walk Test,other,
-59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Post-test,64098-7,Six Minute Walk Test,other,
-64101-9,Borg fatigue - resting,64098-7,Six Minute Walk Test,other,
-64097-9,Borg fatigue - post exercise,64098-7,Six Minute Walk Test,other,
-64113-4,Borg dyspnea - resting,64098-7,Six Minute Walk Test,other,
-64112-6,Borg dyspnea - post exercise,64098-7,Six Minute Walk Test,other,
-19911-7,Diffusion capacity of carbon monoxide,19911-7,DLCO Study,other,
-19910-9,Diffusion capacity of carbon monoxide Predicted,19911-7,DLCO Study,other,
-98130-8,Diffusion capacity of carbon monoxide/Predicted,19911-7,DLCO Study,other,
-98091-2,Diffusion capacity of carbon monoxide --pre bronchodilation,19911-7,DLCO Study,other,
-19913-3,Diffusion capacity of carbon monoxide adjusted for hemoglobin,19911-7,DLCO Study,other,
-98092-0,Diffusion capacity of carbon monoxide --post bronchodilation,19911-7,DLCO Study,other,
-69578-3,Diffusion capacity of carbon monoxide/Alveolar volume adjusted for hemoglobin,19911-7,DLCO Study,other,
-19912-5,Diffusion capacity of carbon monoxide adjusted for hemoglobin by Helium single breath,19911-7,DLCO Study,other,
-19914-1,Diffusion capacity/Alveolar volume by Single breath of carbon monoxide+Helium,19911-7,DLCO Study,other,
-19917-4,Diffusion capacity adjusted to body conditions by Single breath.carbon monoxide+Helium,19911-7,DLCO Study,other,
-19869-7,Forced Vital Capacity (FVC) predicted,81459-0,Forced Spirometry,other,
-19876-2,Forced Vital Capacity (FVC) --pre bronchodilation,81459-0,Forced Spirometry,other,
-19874-7,Forced Vital Capacity (FVC) --post bronchodilation,81459-0,Forced Spirometry,other,
-19871-3,Forced Vital Capacity (FVC) ratio --pre bronchodilation,81459-0,Forced Spirometry,other,
-19873-9,Forced Vital Capacity (FVC) ratio --post bronchodilation,81459-0,Forced Spirometry,other,
-69982-7,Forced Vital Capacity (FVC) percent change,81459-0,Forced Spirometry,other,
-
+LoincCode,AtomName,CanonicalInvestigationLoincCode,CanonicalInvestigationName,Category
+64098-7,Six minute walk distance,64098-7,Six Minute Walk Test,other
+8889-8,Heart rate by Pulse oximetry - Pre-test,64098-7,Six Minute Walk Test,other
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Pre-test,64098-7,Six Minute Walk Test,other
+8889-8,Heart rate by Pulse oximetry - Minute 1,64098-7,Six Minute Walk Test,other
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 1,64098-7,Six Minute Walk Test,other
+8889-8,Heart rate by Pulse oximetry - Minute 2,64098-7,Six Minute Walk Test,other
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 2,64098-7,Six Minute Walk Test,other
+8889-8,Heart rate by Pulse oximetry - Minute 3,64098-7,Six Minute Walk Test,other
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 3,64098-7,Six Minute Walk Test,other
+8889-8,Heart rate by Pulse oximetry - Minute 4,64098-7,Six Minute Walk Test,other
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 4,64098-7,Six Minute Walk Test,other
+8889-8,Heart rate by Pulse oximetry - Minute 5,64098-7,Six Minute Walk Test,other
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 5,64098-7,Six Minute Walk Test,other
+8889-8,Heart rate by Pulse oximetry - Minute 6,64098-7,Six Minute Walk Test,other
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Minute 6,64098-7,Six Minute Walk Test,other
+8889-8,Heart rate by Pulse oximetry - Post-test,64098-7,Six Minute Walk Test,other
+59408-5,Oxygen saturation in Arterial blood by Pulse oximetry - Post-test,64098-7,Six Minute Walk Test,other
+64101-9,Borg fatigue - resting,64098-7,Six Minute Walk Test,other
+64097-9,Borg fatigue - post exercise,64098-7,Six Minute Walk Test,other
+64113-4,Borg dyspnea - resting,64098-7,Six Minute Walk Test,other
+64112-6,Borg dyspnea - post exercise,64098-7,Six Minute Walk Test,other
+19911-7,Diffusion capacity of carbon monoxide,19911-7,DLCO Study,other
+19910-9,Diffusion capacity of carbon monoxide Predicted,19911-7,DLCO Study,other
+98130-8,Diffusion capacity of carbon monoxide/Predicted,19911-7,DLCO Study,other
+98091-2,Diffusion capacity of carbon monoxide --pre bronchodilation,19911-7,DLCO Study,other
+19913-3,Diffusion capacity of carbon monoxide adjusted for hemoglobin,19911-7,DLCO Study,other
+98092-0,Diffusion capacity of carbon monoxide --post bronchodilation,19911-7,DLCO Study,other
+69578-3,Diffusion capacity of carbon monoxide/Alveolar volume adjusted for hemoglobin,19911-7,DLCO Study,other
+19912-5,Diffusion capacity of carbon monoxide adjusted for hemoglobin by Helium single breath,19911-7,DLCO Study,other
+19914-1,Diffusion capacity/Alveolar volume by Single breath of carbon monoxide+Helium,19911-7,DLCO Study,other
+19917-4,Diffusion capacity adjusted to body conditions by Single breath.carbon monoxide+Helium,19911-7,DLCO Study,other
+19868-9,Forced Vital Capacity (FVC),19868-9,Forced Spirometry,other
+19926-5,FEV1/FVC,19926-5,Forced Spirometry Forced Expiratory Volume in 1 Second (FEV1),other
+19926-5,FEV1/FVC,19868-9,Forced Spirometry,other
+19927-3,Gas flow FEV 25%-75%,19927-3,Forced Spirometry,other
+69973-6,FEF 25-75% --post bronchodilation,69973-6,Forced Spirometry,other
+69972-8,FEF 25-75% --pre bronchodilation,69972-8,Forced Spirometry,other
+60948-7,Peak Inspiratory Flow (PIF),60948-7,Forced Spirometry,other
+81449-1,Inspiratory gas flow.max Respiratory system airway --post bronchodilation,81449-1, Pulmonary function test panel,
+81448-3,Inspiratory gas flow.max Respiratory system airway --pre bronchodilation,81448-3, Pulmonary function test panel,other
+8480-6,Systolic Blood Pressure,85354-9,Blood Pressure Monitoring,other
+8462-4,Diastolic Blood Pressure,85354-9,Blood Pressure Monitoring,other
+8867-4,Heart Rate,85354-9,Blood Pressure Monitoring,other
+18538-9,Q-T interval Lead V1,18538-9,Electrocardiogram/EKG,other
+18526-4,P-R Interval Lead V1,18526-4,Electrocardiogram/EKG,other
+60962-8,ST amplitude.derived lead V1,60962-8,Electrocardiogram/EKG,other
+9955-6,QRS duration in lead V1,9955-6,Electrocardiogram/EKG,other
+18550-4,ST amplitude.J point+20 ms Lead V1,18550-4,Electrocardiogram/EKG,other
+18562-9,ST amplitude.J point+60 ms Lead V1,18562-9,Electrocardiogram/EKG,other
+18574-4,ST amplitude.J point+80 ms Lead V1,18574-4,Electrocardiogram/EKG,other
+18539-7,Q-T interval Lead V2,18539-7,Electrocardiogram/EKG,other
+18527-2,P-R Interval Lead V2,18527-2,Electrocardiogram/EKG,other
+60963-6,ST amplitude.derived lead V2,60963-6,Electrocardiogram/EKG,other
+9956-4,QRS duration in lead V2,9956-4,Electrocardiogram/EKG,other
+18551-2,ST amplitude.J point+20 ms Lead V2,18551-2,Electrocardiogram/EKG,other
+18563-7,ST amplitude.J point+60 ms Lead V2,18563-7,Electrocardiogram/EKG,other
+18575-1,ST amplitude.J point+80 ms Lead V2,18575-1,Electrocardiogram/EKG,other
+18540-5,Q-T interval Lead V3,18540-5,Electrocardiogram/EKG,other
+18528-0,P-R Interval Lead V3,18528-0,Electrocardiogram/EKG,other
+18552-0,ST amplitude.J point+20 ms Lead V3,18552-0,Electrocardiogram/EKG,other
+18564-5,ST amplitude.J point+60 ms Lead V3,18564-5,Electrocardiogram/EKG,other
+18576-9,ST amplitude.J point+80 ms Lead V3,18576-9,Electrocardiogram/EKG,other
+18541-3,Q-T interval Lead V4,18541-3,Electrocardiogram/EKG,other
+18529-8,P-R Interval Lead V4,18529-8,Electrocardiogram/EKG,other
+18553-8,ST amplitude.J point+20 ms Lead V4,18553-8,Electrocardiogram/EKG,other
+18565-2,ST amplitude.J point+60 ms Lead V4,18565-2,Electrocardiogram/EKG,other
+18577-7,ST amplitude.J point+80 ms Lead V4,18577-7,Electrocardiogram/EKG,other
+18542-1,Q-T interval Lead V5,18542-1,Electrocardiogram/EKG,other
+18530-6,P-R Interval Lead V5,18530-6,Electrocardiogram/EKG,other
+18554-6,ST amplitude.J point+20 ms Lead V5,18554-6,Electrocardiogram/EKG,other
+18566-0,ST amplitude.J point+60 ms Lead V5,18566-0,Electrocardiogram/EKG,other
+18578-5,ST amplitude.J point+80 ms Lead V5,18578-5,Electrocardiogram/EKG,other
+18543-9,Q-T interval Lead V6,18543-9,Electrocardiogram/EKG,other
+18531-4,P-R Interval Lead V6,18531-4,Electrocardiogram/EKG,other
+18555-3,ST amplitude.J point+20 ms Lead V6,18555-3,Electrocardiogram/EKG,other
+18567-8,ST amplitude.J point+60 ms Lead V6,18567-8,Electrocardiogram/EKG,other
+18579-3,ST amplitude.J point+80 ms Lead V6,18579-3,Electrocardiogram/EKG,other
+18535-5,Q-T interval Lead I,18535-5,Electrocardiogram/EKG,other
+18523-1,P-R Interval Lead I,18523-1,Electrocardiogram/EKG,other
+18547-0,ST amplitude.J point+20 ms Lead I,18547-0,Electrocardiogram/EKG,other
+18559-5,ST amplitude.J point+60 ms Lead I,18559-5,Electrocardiogram/EKG,other
+18571-0,ST amplitude.J point+80 ms Lead I,18571-0,Electrocardiogram/EKG,other
+18536-3,Q-T interval Lead II,18536-3,Electrocardiogram/EKG,other
+18524-9,P-R Interval Lead II,18524-9,Electrocardiogram/EKG,other
+18548-8,ST amplitude.J point+20 ms Lead II,18548-8,Electrocardiogram/EKG,other
+18560-3,ST amplitude.J point+60 ms Lead II,18560-3,Electrocardiogram/EKG,other
+18572-8,ST amplitude.J point+80 ms Lead II,18572-8,Electrocardiogram/EKG,other
+18537-1,Q-T interval Lead III,18537-1,Electrocardiogram/EKG,other
+18525-6,P-R Interval Lead III,18525-6,Electrocardiogram/EKG,other
+18549-6,ST amplitude.J point+20 ms Lead III,18549-6,Electrocardiogram/EKG,other
+18561-1,ST amplitude.J point+60 ms Lead III,18561-1,Electrocardiogram/EKG,other
+18573-6,ST amplitude.J point+80 ms Lead III,18573-6,Electrocardiogram/EKG,other
+18534-8,Q-T interval Lead AVR,18534-8,Electrocardiogram/EKG,other
+18522-3,P-R Interval Lead AVR,18522-3,Electrocardiogram/EKG,other
+18546-2,ST amplitude.J point+20 ms Lead AVR,18546-2,Electrocardiogram/EKG,other
+18558-7,ST amplitude.J point+60 ms Lead AVR,18558-7,Electrocardiogram/EKG,other
+18570-2,ST amplitude.J point+80 ms Lead AVR,18570-2,Electrocardiogram/EKG,other
+18533-0,Q-T interval Lead AVL,18533-0,Electrocardiogram/EKG,other
+18521-5,P-R Interval Lead AVL,18521-5,Electrocardiogram/EKG,other
+18545-4,ST amplitude.J point+20 ms Lead AVL,18545-4,Electrocardiogram/EKG,other
+18557-9,ST amplitude.J point+60 ms Lead AVL,18557-9,Electrocardiogram/EKG,other
+18569-4,ST amplitude.J point+80 ms Lead AVL,18569-4,Electrocardiogram/EKG,other
+18532-2,Q-T interval Lead AVF,18532-2,Electrocardiogram/EKG,other
+18520-7,P-R Interval Lead AVF,18520-7,Electrocardiogram/EKG,other
+18544-7,ST amplitude.J point+20 ms Lead AVF,18544-7,Electrocardiogram/EKG,other
+18556-1,ST amplitude.J point+60 ms Lead AVF,18556-1,Electrocardiogram/EKG,other
+18568-6,ST amplitude.J point+80 ms Lead AVF,18568-6,Electrocardiogram/EKG,other
+8632-2,QRS axis,8632-2,Electrocardiogram/EKG,other
+9997-8,R wave axis,9997-8,Electrocardiogram/EKG,other
+8626-4,P wave axis,8626-4,Electrocardiogram/EKG,other
+8638-9,T wave axis,8638-9,Electrocardiogram/EKG,other
+18508-2,R wave axis.horizontal plane,18508-2,Electrocardiogram/EKG,other
+18510-8,ST segment axis.horizontal plane,18510-8,Electrocardiogram/EKG,other
+8867-4,Heart Rate ,8867-4,Electrocardiogram,other
+8867-4,Rhythm,8867-4,Electrocardiogram,other
+8806-2,Left ventricular Ejection fraction by 2D echo,N/A,Echo,other
+8813-8,Right ventricular Ejection fraction by 2D echo,N/A,Echo,other  
+8807-0,Left ventricular Ejection fraction by 2D echo.visual estimate,N/A,Echo,other
+8814-6,Right ventricular Ejection fraction by 2D echo.visual estimate,N/A,Echo,other
+59132-1,Heart.XXX Fractional shortening by US,N/A,Echo,other
+18051-3,Left ventricular Fractional shortening minor axis by US,N/A,Echo,other
+29434-8,Left ventricular Fractional shortening minor axis by US 2D,N/A,Echo,other
+29435-5,Left ventricular Fractional shortening minor axis by US.M-mode,N/A,Echo,other
+59131-3,Atrium Left atrium volume/Right atrium volume by US,N/A,Echo,other
+17985-3,Left atrial AP dimension.left atrium/AP dimension.aorta root by US,N/A,Echo,other
+17977-0,Left atrial Area by US.2D.A4C,N/A,Echo,other
+79973-4,Left atrial Area at end systole by US.2D.A2C+Measured by planimetry,N/A,Echo,other
+79974-2,Left atrial Area at end systole by US.2D.A4C+Measured by planimetry,N/A,Echo,other
+29468-6,Left atrial Diameter anterior-posterior systole by US 2D,N/A,Echo,other
+18024-0,Left atrial Diameter anterior-posterior systole by US.M-mode,N/A,Echo,other
+93640-1,Left atrial End-systolic volume by US.2D.A2C+Calc by single plane area-length method,N/A,Echo,other
+79985-8,Left atrial End-systolic volume by US.2D.A2C+Calculated by single plane method of disks,N/A,Echo,other
+93641-9,Left atrial End-systolic volume by US.2D.A4C+Calc by single plane area-length method,N/A,Echo,other
+79986-6,Left atrial End-systolic volume by US.2D.A4C+Calculated by single plane method of disks,N/A,Echo,other
+77905-8,Left atrial End-systolic volume by US.2D+Calculated by area-length method,N/A,Echo,other
+79981-7,Left atrial End-systolic volume by US.2D+Calculated by biplane area-length method,N/A,Echo,other
+79983-3,Left atrial End-systolic volume by US.2D+Calculated by biplane method of disks,N/A,Echo,other
+93636-9,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D.A2C+Calc by single plane area-length method,N/A,Echo,other
+93638-5,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D.A2C+Calculated by single plane method of disks,N/A,Echo,other
+93637-7,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D.A4C+Calc by single plane area-length method,N/A,Echo,other
+93639-3,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D.A4C+Calculated by single plane method of disks,N/A,Echo,other
+77907-4,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D+Calculated by area-length method,N/A,Echo,other
+79982-5,Left atrial End-systolic volume (by US.2D+Calculated by biplane area-length method)/Body surface area,N/A,Echo,other
+79984-1,Left atrial End-systolic volume (by US.2D+Calculated by biplane method of disks)/Body surface area,N/A,Echo,other
+77906-6,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D+Calculated by modified Simpson method,N/A,Echo,other
+77904-1,Left atrial End-systolic volume by US.2D+Calculated by modified Simpson method,N/A,Echo,other
+29469-4,Left atrial Major axis diameter anterior-posterior systole by US 2D,N/A,Echo,other
+79975-9,Left atrial Minor axis at end systole [Length] by US 2D,N/A,Echo,other
+79977-5,Left atrial Minor axis at end systole [Length] by US.M-mode,N/A,Echo,other
+79976-7,Left atrial Minor axis at end systole (by US 2D)/Body surface area,N/A,Echo,other
+79978-3,Left atrial Minor axis at end systole (by US.M-mode)/Body surface area,N/A,Echo,other
+79979-1,Left atrial Length at end systole by US.2D.A2C,N/A,Echo,other
