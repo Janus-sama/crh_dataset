@@ -55,3 +55,111 @@
 "69971-0","FEF 25-75% Predicted","81459-0","Forced Spirometry","other","L/s","numeric",TRUE
 "69972-8","FEF 25-75% --pre bronchodilation","81459-0","Forced Spirometry","other","L/s","numeric",TRUE
 "69973-6","FEF 25-75% --post bronchodilation","81459-0","Forced Spirometry","other","L/s","numeric",FALSE
+8867-4,Heart Rate,N/A,Blood Pressure Monitoring,other,"BPM","numeric",N/A
+18538-9,Q-T interval Lead V1,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18526-4,P-R Interval Lead V1,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+60962-8,ST amplitude.derived lead V1,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+9955-6,QRS duration in lead V1,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18550-4,ST amplitude.J point+20 ms Lead V1,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18562-9,ST amplitude.J point+60 ms Lead V1,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18574-4,ST amplitude.J point+80 ms Lead V1,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18539-7,Q-T interval Lead V2,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18527-2,P-R Interval Lead V2,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+60963-6,ST amplitude.derived lead V2,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+9956-4,QRS duration in lead V2,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18551-2,ST amplitude.J point+20 ms Lead V2,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18563-7,ST amplitude.J point+60 ms Lead V2,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18575-1,ST amplitude.J point+80 ms Lead V2,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18540-5,Q-T interval Lead V3,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18528-0,P-R Interval Lead V3,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18552-0,ST amplitude.J point+20 ms Lead V3,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18564-5,ST amplitude.J point+60 ms Lead V3,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18576-9,ST amplitude.J point+80 ms Lead V3,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18541-3,Q-T interval Lead V4,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18529-8,P-R Interval Lead V4,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18553-8,ST amplitude.J point+20 ms Lead V4,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18565-2,ST amplitude.J point+60 ms Lead V4,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18577-7,ST amplitude.J point+80 ms Lead V4,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18542-1,Q-T interval Lead V5,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18530-6,P-R Interval Lead V5,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18554-6,ST amplitude.J point+20 ms Lead V5,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18566-0,ST amplitude.J point+60 ms Lead V5,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18578-5,ST amplitude.J point+80 ms Lead V5,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18543-9,Q-T interval Lead V6,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18531-4,P-R Interval Lead V6,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18555-3,ST amplitude.J point+20 ms Lead V6,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18567-8,ST amplitude.J point+60 ms Lead V6,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18579-3,ST amplitude.J point+80 ms Lead V6,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18535-5,Q-T interval Lead I,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18523-1,P-R Interval Lead I,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18547-0,ST amplitude.J point+20 ms Lead I,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18559-5,ST amplitude.J point+60 ms Lead I,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18571-0,ST amplitude.J point+80 ms Lead I,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18536-3,Q-T interval Lead II,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18524-9,P-R Interval Lead II,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18548-8,ST amplitude.J point+20 ms Lead II,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18560-3,ST amplitude.J point+60 ms Lead II,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18572-8,ST amplitude.J point+80 ms Lead II,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18537-1,Q-T interval Lead III,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18525-6,P-R Interval Lead III,N/A,Electrocardiogram/EKG,other,"ms","numeric",N/A
+18549-6,ST amplitude.J point+20 ms Lead III,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18561-1,ST amplitude.J point+60 ms Lead III,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18573-6,ST amplitude.J point+80 ms Lead III,N/A,Electrocardiogram/EKG,other,"mV","numeric",N/A
+18534-8,Q-T interval Lead AVR,N/A,Electrocardiogram/EKG,other,"ms",numeric,N/A
+18522-3,P-R Interval Lead AVR,N/A,Electrocardiogram/EKG,other,"ms",numeric,N/A
+18546-2,ST amplitude.J point+20 ms Lead AVR,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+18558-7,ST amplitude.J point+60 ms Lead AVR,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+18570-2,ST amplitude.J point+80 ms Lead AVR,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+18533-0,Q-T interval Lead AVL,N/A,Electrocardiogram/EKG,other,"ms",numeric,N/A
+18521-5,P-R Interval Lead AVL,N/A,Electrocardiogram/EKG,other,"ms",numeric,N/A
+18545-4,ST amplitude.J point+20 ms Lead AVL,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+18557-9,ST amplitude.J point+60 ms Lead AVL,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+18569-4,ST amplitude.J point+80 ms Lead AVL,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+18532-2,Q-T interval Lead AVF,N/A,Electrocardiogram/EKG,other,"ms",numeric,N/A
+18520-7,P-R Interval Lead AVF,N/A,Electrocardiogram/EKG,other,"ms",numeric,N/A
+18544-7,ST amplitude.J point+20 ms Lead AVF,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+18556-1,ST amplitude.J point+60 ms Lead AVF,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+18568-6,ST amplitude.J point+80 ms Lead AVF,N/A,Electrocardiogram/EKG,other,"mV",numeric,N/A
+8632-2,QRS axis,N/A,Electrocardiogram/EKG,other,"degree",numeric,N/A
+9997-8,R wave axis,N/A,Electrocardiogram/EKG,other,"degree",numeric,N/A
+8626-4,P wave axis,N/A,Electrocardiogram/EKG,other,"degree",numeric,N/A
+8638-9,T wave axis,N/A,Electrocardiogram/EKG,other,"degree",numeric,N/A
+18508-2,R wave axis.horizontal plane,N/A,Electrocardiogram/EKG,other,"degree",numeric,N/A
+18510-8,ST segment axis.horizontal plane,N/A,Electrocardiogram/EKG,other,"degree",numeric,N/A
+8806-2,Left ventricular Ejection fraction by 2D echo,N/A,Echo,other,"%",numeric,N/A
+8813-8,Right ventricular Ejection fraction by 2D echo,N/A,Echo,other,"%",numeric,N/A  
+8807-0,Left ventricular Ejection fraction by 2D echo.visual estimate,"N/A",Echo,other,"%",numeric,N/A
+8814-6,Right ventricular Ejection fraction by 2D echo.visual estimate,"N/A",Echo,other,"%",numeric,N/A
+59132-1,Heart.XXX Fractional shortening by US,"%",Echo,other,"N/A",numeric,N/A
+18051-3,Left ventricular Fractional shortening minor axis by US,"N/A",Echo,other,"%",numeric,N/A
+29434-8,Left ventricular Fractional shortening minor axis by US 2D,"N/A",Echo,other,"%",numeric,N/A
+29435-5,Left ventricular Fractional shortening minor axis by US.M-mode,"N/A",Echo,other,"%"numeric,N/A
+59131-3,Atrium Left atrium volume/Right atrium volume by US,"N/A",Echo,other,"mL",numeric,N/A
+17985-3,Left atrial AP dimension.left atrium/AP dimension.aorta root by US,"mm",Echo,other,N/A,numeric,N/A
+17977-0,Left atrial Area by US.2D.A4C,N/A,Echo,other,"cm2",numeric,N/A
+79973-4,Left atrial Area at end systole by US.2D.A2C+Measured by planimetry,N/A,Echo,other,"cm2",numeric,N/A
+79974-2,Left atrial Area at end systole by US.2D.A4C+Measured by planimetry,N/A,Echo,other,"cm2",numeric,N/A
+29468-6,Left atrial Diameter anterior-posterior systole by US 2D,N/A,Echo,other,"cm",numeric,N/A
+18024-0,Left atrial Diameter anterior-posterior systole by US.M-mode,N/A,Echo,other,"cm",numeric,N/A
+93640-1,Left atrial End-systolic volume by US.2D.A2C+Calc by single plane area-length method,N/A,Echo,other,"cm3",numeric,N/A
+79985-8,Left atrial End-systolic volume by US.2D.A2C+Calculated by single plane method of disks,N/A,Echo,other,"cm3",numeric,N/A
+93641-9,Left atrial End-systolic volume by US.2D.A4C+Calc by single plane area-length method,N/A,Echo,other,"cm3",numeric,N/A
+79986-6,Left atrial End-systolic volume by US.2D.A4C+Calculated by single plane method of disks,N/A,Echo,other,"cm3",numeric,N/A
+77905-8,Left atrial End-systolic volume by US.2D+Calculated by area-length method,N/A,Echo,other,"cm2",numeric,N/A
+79981-7,Left atrial End-systolic volume by US.2D+Calculated by biplane area-length method,N/A,Echo,other,"cm2",numeric,N/A
+79983-3,Left atrial End-systolic volume by US.2D+Calculated by biplane method of disks,N/A,Echo,other,"cm2",numeric,N/A
+93636-9,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D.A2C+Calc by single plane area-length method,N/A,Echo,other,"mL/m2",numeric,N/A
+93638-5,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D.A2C+Calculated by single plane method of disks,N/A,Echo,other,"mL/m2",numeric,N/A
+93637-7,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D.A4C+Calc by single plane area-length method,N/A,Echo,other,"mL/m2",numeric,N/A
+93639-3,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D.A4C+Calculated by single plane method of disks,N/A,Echo,other,"mL/m2",numeric,N/A
+77907-4,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D+Calculated by area-length method,N/A,Echo,other,"mL/m2",numeric,N/A
+79982-5,Left atrial End-systolic volume (by US.2D+Calculated by biplane area-length method)/Body surface area,N/A,Echo,other,"mL/m2",numeric,N/A
+79984-1,Left atrial End-systolic volume (by US.2D+Calculated by biplane method of disks)/Body surface area,N/A,Echo,other,"mL/m2",numeric,N/A
+77906-6,Left atrial End-systolic volume/Body surface area [Volume/Area] by US.2D+Calculated by modified Simpson method,N/A,Echo,other,"mL/m2",numeric,N/A
+77904-1,Left atrial End-systolic volume by US.2D+Calculated by modified Simpson method,N/A,Echo,other,"mL",numeric,N/A
+29469-4,Left atrial Major axis diameter anterior-posterior systole by US 2D,N/A,Echo,other,"cm",numeric,N/A
+79975-9,Left atrial Minor axis at end systole [Length] by US 2D,N/A,Echo,other,"cm",numeric,N/A
+79977-5,Left atrial Minor axis at end systole [Length] by US.M-mode,N/A,Echo,other,"cm",numeric,N/A
+79976-7,Left atrial Minor axis at end systole (by US 2D)/Body surface area,N/A,Echo,other,"cm/m2",numeric,N/A
+79978-3,Left atrial Minor axis at end systole (by US.M-mode)/Body surface area,N/A,Echo,other,"cm/m2",numeric,N/A
+79979-1,Left atrial Length at end systole by US.2D.A2C,N/A,Echo,other,"cm",numeric,N/A
