@@ -133,7 +133,7 @@
 59132-1,Heart.XXX Fractional shortening by US,"%",Echo,other,"N/A",numeric,N/A
 18051-3,Left ventricular Fractional shortening minor axis by US,"N/A",Echo,other,"%",numeric,N/A
 29434-8,Left ventricular Fractional shortening minor axis by US 2D,"N/A",Echo,other,"%",numeric,N/A
-29435-5,Left ventricular Fractional shortening minor axis by US.M-mode,"N/A",Echo,other,"%"numeric,N/A
+29435-5,Left ventricular Fractional shortening minor axis by US.M-mode,"N/A",Echo,other,"%",numeric,N/A
 59131-3,Atrium Left atrium volume/Right atrium volume by US,"N/A",Echo,other,"mL",numeric,N/A
 17985-3,Left atrial AP dimension.left atrium/AP dimension.aorta root by US,"mm",Echo,other,N/A,numeric,N/A
 17977-0,Left atrial Area by US.2D.A4C,N/A,Echo,other,"cm2",numeric,N/A
