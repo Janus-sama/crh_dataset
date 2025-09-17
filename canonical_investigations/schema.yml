@@ -1,0 +1,40 @@
+version: 1
+tables:
+  - name: canonical_investigation
+    description: Canonical investigations mapped to LOINC codes and atoms
+    columns:
+      - name: LoincCode
+        description: LOINC code of the atom
+        tests:
+          - not_null
+          - unique
+      - name: AtomName
+        description: Human-readable name of the atom
+        tests:
+          - not_null
+      - name: CanonicalInvestigationLoincCode
+        description: LOINC code of the canonical investigation
+        tests:
+          - not_null
+      - name: CanonicalInvestigationName
+        description: Name of the canonical investigation
+        tests:
+          - not_null
+      - name: Category
+        description: Investigation type (lab, radiology, other)
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["lab", "radiology", "other"]
+      - name: Unit
+        description: Unit of measurement (from LOINC units)
+        tests: []
+      - name: Type
+        description: Data type for form validation (numeric, ordinal, text, long_text, document)
+        tests:
+          - not_null
+          - accepted_values:
+              values: ["numeric", "ordinal", "text", "long_text", "document"]
+      - name: Required
+        description: Whether the atom is required (left blank for now)
+        tests: []
