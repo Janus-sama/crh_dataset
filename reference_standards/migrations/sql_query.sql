@@ -1,0 +1,13 @@
+"LoincCode",
+"LowerLimit",
+"UpperLimit",
+"AgeMin",
+"AgeMax",
+"Sex",
+"Criteria",
+"Specimen",
+"CollectionType",
+"Method",
+"Unit",
+"Note",
+"Source"
