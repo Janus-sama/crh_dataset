@@ -1,4 +1,4 @@
-# 📘 Data Dictionary: CRH Certifications & Licenses Dataset
+# Data Dictionary: CRH Certifications & Licenses Dataset
 
 This dictionary explains the fields in the `certifications.csv` dataset.
 
