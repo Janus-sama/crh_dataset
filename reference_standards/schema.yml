@@ -1,0 +1,45 @@
+version: 1
+
+models:
+  - name: reference_standards
+    description: "Reference intervals for clinical laboratory analytes"
+    columns:
+      - name: LoincCode
+        description: "LOINC code of the analyte"
+        tests:
+          - not_null
+      - name: LowerLimit
+        description: "Lower bound of reference interval (nullable if only upper bound defined)"
+      - name: UpperLimit
+        description: "Upper bound of reference interval (nullable if only lower bound defined)"
+      - name: AgeMin
+        description: "Minimum patient age (years)"
+        tests:
+          - not_null
+      - name: AgeMax
+        description: "Maximum patient age (years)"
+        tests:
+          - not_null
+      - name: Sex
+        description: "Biological sex for which the range applies"
+        tests:
+          - accepted_values:
+              values: ["M", "F", "Any"]
+      - name: Criteria
+        description: "Special condition or physiological state (e.g., pregnancy, follicular phase)"
+      - name: Specimen
+        description: "Specimen type (serum, plasma, urine, CSF, etc.)"
+        tests:
+          - not_null
+      - name: CollectionType
+        description: "Collection/handling type (e.g., EDTA plasma, lithium heparin, citrate tube)"
+      - name: Method
+        description: "Measurement method (if relevant)"
+      - name: Unit
+        description: "Measurement unit (preferably SI units)"
+      - name: Note
+        description: "Free-text notes"
+      - name: Source
+        description: "Source or reference of the interval (lab, guideline, publication)"
+        tests:
+          - not_null
